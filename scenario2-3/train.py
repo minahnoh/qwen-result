@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Scenario 2-3: image + defect-aware case2 description QLoRA training."""
 
 import argparse
@@ -171,10 +171,10 @@ def main():
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
     train_dataset = Case2Dataset(
-        args.data_root / "train", args.data_root / "case2" / "train", args.expected_train
+        args.data_root / "train", args.data_root / "frontier_llm/gpt/case2", args.expected_train
     )
     val_dataset = Case2Dataset(
-        args.data_root / "val", args.data_root / "case2" / "val", args.expected_val
+        args.data_root / "val", args.data_root / "frontier_llm/gpt/case2_val", args.expected_val
     )
     processor = AutoProcessor.from_pretrained(args.model_id)
     quantization = BitsAndBytesConfig(
@@ -246,3 +246,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
