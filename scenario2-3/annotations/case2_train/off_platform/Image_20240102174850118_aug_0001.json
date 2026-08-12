@@ -1,0 +1,27 @@
+{
+  "dataset_label": "Off_platform",
+  "supporting_features": [
+    {
+      "feature_phrase": "loose filament spread across the build plate",
+      "evidence": "Thin deposited strands lie across a broad area of the plate instead of forming one compact upright object.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "tangled overlapping filament loops",
+      "evidence": "Numerous strands curl into irregular loops and overlap within the visible material mass.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "long strands trailing from the main cluster",
+      "evidence": "Several individual filaments extend away from the denser central cluster across the plate surface.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "absence of a coherent anchored footprint",
+      "evidence": "The visible deposit consists of separated strands and low irregular patches without a continuous solid base outline.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

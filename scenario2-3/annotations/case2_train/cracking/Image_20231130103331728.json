@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Cracking",
+  "supporting_features": [
+    {
+      "feature_phrase": "open horizontal gap across the sidewall",
+      "evidence": "A dark, open separation runs laterally through a substantial portion of the printed wall.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "separated upper and lower layer sections",
+      "evidence": "The wall above the opening is visibly detached from the stacked layers below it along the gap.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "separation aligned with the layer direction",
+      "evidence": "The opening follows the same horizontal direction as the visible filament layer bands on the side surface.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

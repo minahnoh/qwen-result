@@ -1,0 +1,27 @@
+{
+  "dataset_label": "Warping",
+  "supporting_features": [
+    {
+      "feature_phrase": "raised section along the lower perimeter",
+      "evidence": "A portion of the printed lower edge sits visibly above the build-plate surface while another portion remains lower.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "visible gap beneath the printed base",
+      "evidence": "A dark open space is visible between part of the object's underside and the build plate.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "upward-curving bottom outline",
+      "evidence": "The bottom boundary bends upward toward a raised edge instead of remaining straight and level across the plate.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "uneven contact along the footprint",
+      "evidence": "The base contacts the plate in some regions but is separated from it in other visible regions.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

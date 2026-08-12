@@ -1,0 +1,27 @@
+{
+  "dataset_label": "Layer_shifting",
+  "supporting_features": [
+    {
+      "feature_phrase": "abrupt lateral offset at a horizontal boundary",
+      "evidence": "The printed outline changes sideways at a distinct height rather than continuing vertically from the section below.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "upper section displaced relative to the base",
+      "evidence": "The upper printed mass is visibly translated sideways from the lower footprint.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "projecting ledge at the offset interface",
+      "evidence": "One side of the displaced section extends beyond the wall below, forming a pronounced horizontal ledge.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "recessed step opposite the projecting edge",
+      "evidence": "The opposing side shows an inward step where the upper and lower outer contours no longer align.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

@@ -1,0 +1,27 @@
+{
+  "dataset_label": "Stringing",
+  "supporting_features": [
+    {
+      "feature_phrase": "fine filaments bridging separated structures",
+      "evidence": "Multiple very thin strands span the open space between the solid upright printed sections.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "sagging filament lines across the opening",
+      "evidence": "Several suspended strands curve or droop while crossing the gap between the printed sections.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "irregular filament buildup on inward-facing edges",
+      "evidence": "Uneven branch-like and curled deposits project from the edges facing the central open space.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "filaments distributed at multiple heights",
+      "evidence": "Thin connecting strands appear at numerous vertical levels rather than in a single localized band.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}
