@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Cracking",
+  "supporting_features": [
+    {
+      "feature_phrase": "open horizontal split through the sidewall",
+      "evidence": "A dark lateral gap visibly separates upper and lower portions of the amber printed body.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "detached stacked sections",
+      "evidence": "Material above the gap does not meet the lower layer stack along part of the visible width.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "parallel ridges bordering the separation",
+      "evidence": "Horizontal filament ridges above and below the opening run in the same direction as the split.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

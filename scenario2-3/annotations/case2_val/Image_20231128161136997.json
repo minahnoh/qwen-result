@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Layer_shifting",
+  "supporting_features": [
+    {
+      "feature_phrase": "upper rectangular section displaced sideways",
+      "evidence": "The upper printed block is laterally offset from the lower rectangular base, leaving a stepped outline.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "projecting ledge at the offset boundary",
+      "evidence": "One side of the upper section extends beyond the wall below at a distinct horizontal interface.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "unequal side margins around the upper body",
+      "evidence": "The lower footprint extends farther beyond the upper section on one visible side.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Off_platform",
+  "supporting_features": [
+    {
+      "feature_phrase": "compact nest of loose filament on the plate",
+      "evidence": "A small irregular cluster of overlapping amber strands sits beneath the print head without a coherent solid body.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "large open filament loop at the right edge",
+      "evidence": "One strand curves into a conspicuous loop extending to the right of the central tangle.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "scattered strand ends around the main cluster",
+      "evidence": "Several thin filament ends protrude outward along the plate surface from the dense center.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

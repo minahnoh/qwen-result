@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Layer_shifting",
+  "supporting_features": [
+    {
+      "feature_phrase": "abrupt lateral step between stacked sections",
+      "evidence": "Successive printed sections change horizontal position instead of remaining vertically aligned.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "asymmetric upper contour",
+      "evidence": "The growing upper wall occupies one side of the lower footprint and leaves a recessed step on the opposite side.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "visible horizontal layer bands",
+      "evidence": "Parallel layer lines make the sideways discontinuity between adjacent heights easy to locate.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

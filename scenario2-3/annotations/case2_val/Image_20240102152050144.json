@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Warping",
+  "supporting_features": [
+    {
+      "feature_phrase": "opposing base edges at unequal heights",
+      "evidence": "One side of the broad printed base is visibly raised relative to the portion still near the plate.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "arched underside along the footprint",
+      "evidence": "The lower boundary curves upward and leaves incomplete plate contact.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "tilted base profile",
+      "evidence": "The lower perimeter has unequal clearance from the plate across its width.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

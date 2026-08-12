@@ -1,0 +1,17 @@
+{
+  "dataset_label": "Off_platform",
+  "supporting_features": [
+    {
+      "feature_phrase": "irregular spread of unstructured material",
+      "evidence": "The deposited material is dispersed as a flattened nest rather than a coherent printed body.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "strand ends projecting from the main cluster",
+      "evidence": "Several thin filament ends extend outward from the denser tangled region.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

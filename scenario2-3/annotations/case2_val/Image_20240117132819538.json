@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Warping",
+  "supporting_features": [
+    {
+      "feature_phrase": "lifted edge beneath the finished blue-grey base",
+      "evidence": "A visible edge of the completed low object is elevated above the build plate.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "shadow gap below part of the base",
+      "evidence": "Dark separation is visible under one portion while another portion remains closer to the plate.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "partial rather than full plate contact",
+      "evidence": "Only part of the visible footprint appears seated on the build surface.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

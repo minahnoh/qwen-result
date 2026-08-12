@@ -1,0 +1,17 @@
+{
+  "dataset_label": "Off_platform",
+  "supporting_features": [
+    {
+      "feature_phrase": "low tangle of loose filament",
+      "evidence": "Overlapping amber strands form an irregular low mass directly on the build plate.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "raised loops above the deposited mass",
+      "evidence": "Loose filament arches rise visibly above the surrounding tangle near the print head.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

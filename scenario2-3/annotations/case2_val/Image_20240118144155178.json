@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Layer_shifting",
+  "supporting_features": [
+    {
+      "feature_phrase": "misaligned stacked grey layers",
+      "evidence": "The upper grey layer band is visibly shifted relative to the lower footprint.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "overhanging edge beside a recessed edge",
+      "evidence": "A projecting shelf on one side is paired with an inward step on the other.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "unequal side margins around the upper body",
+      "evidence": "The lower footprint extends farther beyond the upper section on one visible side.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

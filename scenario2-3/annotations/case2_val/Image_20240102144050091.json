@@ -1,0 +1,17 @@
+{
+  "dataset_label": "Off_platform",
+  "supporting_features": [
+    {
+      "feature_phrase": "small flattened filament tangle on the plate",
+      "evidence": "A low amber-colored clump of overlapping strands lies directly on the build plate beneath the print head.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "loose loop extending from the clump",
+      "evidence": "A thin filament loop projects to the right of the compact deposited mass.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

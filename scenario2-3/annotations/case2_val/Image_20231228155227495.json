@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Warping",
+  "supporting_features": [
+    {
+      "feature_phrase": "upward-curving lower perimeter",
+      "evidence": "The bottom outline rises toward a visible edge instead of remaining level across the plate.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "dark gap under a raised corner",
+      "evidence": "A narrow shadowed opening separates part of the amber underside from the build plate.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "partial rather than full plate contact",
+      "evidence": "Only part of the visible footprint appears seated on the build surface.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

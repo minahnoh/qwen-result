@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Cracking",
+  "supporting_features": [
+    {
+      "feature_phrase": "horizontal fissure across segmented blue walls",
+      "evidence": "A dark line cuts laterally through multiple adjacent blue wall sections.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "upper blocks visibly separated from lower blocks",
+      "evidence": "The stacked rectangular regions above and below the fissure have an open boundary between them.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "parallel ridges bordering the separation",
+      "evidence": "Horizontal filament ridges above and below the opening run in the same direction as the split.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

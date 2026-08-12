@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Layer_shifting",
+  "supporting_features": [
+    {
+      "feature_phrase": "tall section offset from the rounded base",
+      "evidence": "The upright printed portion rises from one side of the lower rounded body rather than aligning with its center.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "vertical discontinuity at a horizontal layer boundary",
+      "evidence": "The side outline changes position abruptly where the upper section begins.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "visible horizontal layer bands",
+      "evidence": "Parallel layer lines make the sideways discontinuity between adjacent heights easy to locate.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

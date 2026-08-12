@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Warping",
+  "supporting_features": [
+    {
+      "feature_phrase": "raised perimeter of the thicker printed body",
+      "evidence": "The completed amber sidewall sits above the plate along a visible section of its lower edge.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "non-level bottom outline",
+      "evidence": "The base boundary slopes or bends rather than following a straight plate-parallel line.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "partial rather than full plate contact",
+      "evidence": "Only part of the visible footprint appears seated on the build surface.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

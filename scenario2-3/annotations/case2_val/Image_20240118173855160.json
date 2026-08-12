@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Cracking",
+  "supporting_features": [
+    {
+      "feature_phrase": "horizontal fissure across segmented blue walls",
+      "evidence": "A dark line cuts laterally through multiple adjacent blue wall sections.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "upper blocks visibly separated from lower blocks",
+      "evidence": "The stacked rectangular regions above and below the fissure have an open boundary between them.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "localized opening at a layer interface",
+      "evidence": "The darkest open portion occurs between two otherwise parallel printed layer groups.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

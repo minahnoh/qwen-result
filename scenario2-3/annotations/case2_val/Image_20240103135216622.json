@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Stringing",
+  "supporting_features": [
+    {
+      "feature_phrase": "dense web between vertical walls",
+      "evidence": "Numerous fine strands crisscross the central opening from one upright side to the other.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "branch-like deposits on inward-facing edges",
+      "evidence": "Irregular short filament branches project from the surfaces facing the gap.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "solid posts remain separated by open space",
+      "evidence": "The upright structures retain clear gaps while only thin filament strands connect them.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Off_platform",
+  "supporting_features": [
+    {
+      "feature_phrase": "dense bed of randomly tangled filament",
+      "evidence": "A broad mass of overlapping loops and curved strands covers the visible build-plate area.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "filament loops rising above the deposited mass",
+      "evidence": "Several loose strands arch upward near the nozzle and along the left side of the tangle.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "absence of a coherent printed outline",
+      "evidence": "The visible material has no continuous wall or stable geometric body and instead forms an irregular spread.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

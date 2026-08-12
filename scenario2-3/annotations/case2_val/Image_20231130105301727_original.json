@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Cracking",
+  "supporting_features": [
+    {
+      "feature_phrase": "long layer-aligned separation",
+      "evidence": "A narrow dark opening follows the horizontal print-layer direction across the lower half of the object.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "uneven width of the open gap",
+      "evidence": "The separation widens at one side and narrows where limited material still connects the sections.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "parallel ridges bordering the separation",
+      "evidence": "Horizontal filament ridges above and below the opening run in the same direction as the split.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

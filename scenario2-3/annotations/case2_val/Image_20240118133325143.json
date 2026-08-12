@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Stringing",
+  "supporting_features": [
+    {
+      "feature_phrase": "string-like branches among multiple posts",
+      "evidence": "Thin branching deposits extend between and from several narrow blue-grey vertical structures.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "loose filament concentrated in the center",
+      "evidence": "A tangled cluster of fine strands is visible inside the post arrangement above the base.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "solid posts remain separated by open space",
+      "evidence": "The upright structures retain clear gaps while only thin filament strands connect them.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

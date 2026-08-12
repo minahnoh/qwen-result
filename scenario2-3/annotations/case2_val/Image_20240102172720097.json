@@ -1,0 +1,17 @@
+{
+  "dataset_label": "Off_platform",
+  "supporting_features": [
+    {
+      "feature_phrase": "many loose strands spread laterally across the plate",
+      "evidence": "Numerous thin amber strands extend leftward in an irregular low layer rather than forming a solid printed wall.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "detached filament end beneath the nozzle",
+      "evidence": "A single narrow strand projects from the tangled mass toward the area directly below the nozzle.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

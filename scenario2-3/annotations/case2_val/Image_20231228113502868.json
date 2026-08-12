@@ -1,0 +1,17 @@
+{
+  "dataset_label": "Off_platform",
+  "supporting_features": [
+    {
+      "feature_phrase": "scattered filament loops on the plate",
+      "evidence": "Multiple curved strands and open loops lie across the plate without forming a solid wall.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "uneven filament density across the footprint",
+      "evidence": "Dense knots and sparse individual strands alternate across the visible material spread.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

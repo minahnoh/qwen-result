@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Warping",
+  "supporting_features": [
+    {
+      "feature_phrase": "edge of the low base lifted from the plate",
+      "evidence": "One end of the thin amber base sits visibly higher than the build-plate surface.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "uneven contact beneath the footprint",
+      "evidence": "The base touches the plate in one region while a dark gap appears beneath another.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "tilted base profile",
+      "evidence": "The lower perimeter has unequal clearance from the plate across its width.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

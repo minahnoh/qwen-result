@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Cracking",
+  "supporting_features": [
+    {
+      "feature_phrase": "continuous dark band around the blue body",
+      "evidence": "A layer-aligned dark separation remains visible across the front-facing printed wall.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "split between upper and lower layer stacks",
+      "evidence": "The upper wall mass is visibly divided from the base-side layers along the band.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "parallel ridges bordering the separation",
+      "evidence": "Horizontal filament ridges above and below the opening run in the same direction as the split.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

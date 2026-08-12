@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Stringing",
+  "supporting_features": [
+    {
+      "feature_phrase": "irregular filament web across a wide opening",
+      "evidence": "A broad network of thin grey strands occupies the space between the taller side structures.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "curled and broken strand segments",
+      "evidence": "Several loose segments curve, kink, or terminate within the open central region.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "solid posts remain separated by open space",
+      "evidence": "The upright structures retain clear gaps while only thin filament strands connect them.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}

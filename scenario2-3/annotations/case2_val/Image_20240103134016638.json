@@ -1,0 +1,22 @@
+{
+  "dataset_label": "Stringing",
+  "supporting_features": [
+    {
+      "feature_phrase": "fine strands spanning two upright posts",
+      "evidence": "Several thin filaments cross the open space between the separated amber vertical structures.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "sagging diagonal filament paths",
+      "evidence": "Loose strands bow and angle downward between the post faces instead of forming a solid bridge.",
+      "visibility": "clear"
+    },
+    {
+      "feature_phrase": "solid posts remain separated by open space",
+      "evidence": "The upright structures retain clear gaps while only thin filament strands connect them.",
+      "visibility": "clear"
+    }
+  ],
+  "contradicting_features": [],
+  "label_consistency": "consistent"
+}
