@@ -1,0 +1,25 @@
+{
+  "scenario": "2-3",
+  "base_model": "Qwen/Qwen3-VL-8B-Instruct",
+  "max_epochs": 3.0,
+  "completed_epoch": 1.5,
+  "early_stopped": true,
+  "best_checkpoint": "/home/elicer/qwen_defect/result/scenario2-3/checkpoints/checkpoint-115",
+  "train_samples": 1840,
+  "val_samples": 276,
+  "train_metrics": {
+    "train_runtime": 12349.1558,
+    "train_samples_per_second": 0.447,
+    "train_steps_per_second": 0.056,
+    "total_flos": 8.852950217719848e+17,
+    "train_loss": 0.1136701445756615,
+    "epoch": 1.5
+  },
+  "eval_metrics": {
+    "eval_loss": 3.3719472885131836,
+    "eval_runtime": 471.1891,
+    "eval_samples_per_second": 0.586,
+    "eval_steps_per_second": 0.586,
+    "epoch": 1.5
+  }
+}

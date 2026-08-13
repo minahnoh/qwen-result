@@ -1,0 +1,7 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/elicer/qwen_defect/traincode/scenario2-3/train.py", line 9, in <module>
+    import torch
+  File "/home/elicer/qwen_defect/.venv/lib/python3.10/site-packages/torch/__init__.py", line 445, in <module>
+    from torch._C import *  # noqa: F403
+ImportError: /home/elicer/qwen_defect/.venv/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so: undefined symbol: ncclCommResume
