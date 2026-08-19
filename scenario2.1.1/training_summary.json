@@ -1,0 +1,55 @@
+{
+  "scenario": "scenario1_image_label",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "quantization": {
+    "bits": 4,
+    "type": "NF4",
+    "double_quant": true,
+    "compute_dtype": "bfloat16"
+  },
+  "lora": {
+    "target": "LLM Decoder only",
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ],
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.05
+  },
+  "dataset": {
+    "train_samples": 1840,
+    "validation_samples": 276,
+    "train_jsonl": "/home/elicer/qwen_defect/data/train_labels(defect).jsonl",
+    "validation_jsonl": "/home/elicer/qwen_defect/data/val_labels(defect).jsonl"
+  },
+  "training": {
+    "epochs": 3,
+    "train_batch_size": 1,
+    "eval_batch_size": 1,
+    "gradient_accumulation_steps": 8,
+    "effective_batch_size": 8,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.01,
+    "warmup_steps": 35,
+    "scheduler": "cosine",
+    "optimizer": "paged_adamw_8bit",
+    "max_grad_norm": 1.0,
+    "seed": 42
+  },
+  "results": {
+    "training_loss": 0.11573339911929392,
+    "elapsed_seconds": 23438.66957449913,
+    "elapsed_minutes": 390.64449290831885,
+    "elapsed_hours": 6.510741548471981,
+    "validation_metrics": {
+      "eval_loss": 0.001127702882513404,
+      "eval_runtime": 550.6739,
+      "eval_samples_per_second": 0.501,
+      "eval_steps_per_second": 0.501,
+      "epoch": 3.0
+    }
+  }
+}
